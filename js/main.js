@@ -1,5 +1,5 @@
 //create the light gray basemap centered on Alaska and set zoom level 
-var map = L.map('mapid').setView([64,-150], 4);
+var map = L.map('mapid').setView([64,-145], 4);
 
 //var bounds = [
 //[40, -195], // Southwest coordinates
